@@ -32,11 +32,6 @@ export default defineConfig(({mode}) => {
             {
               src: 'pwa-512x512.svg',
               sizes: '512x512',
-              type: 'image/svg+xml'
-            },
-            {
-              src: 'pwa-512x512.svg',
-              sizes: '512x512',
               type: 'image/svg+xml',
               purpose: 'any maskable'
             }
