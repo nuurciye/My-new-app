@@ -1,24 +1,21 @@
+{ "name": "Umumarwan Restaurant &amp; Bakery", "short_name": "Umumarwan", "description": "Fresh Pastry &amp; Bakery in Mogadishu", 
+"start_url": "/\"/\",", 
+"display": "standalone", "background_color": "#000000", "theme_color": "#000000", 
+"lang": "en", 
+"scope": "//\",", 
+"icons": [ 
 {
-  "name": "Umumarwan Restaurant & Bakery",
-  "short_name": "Umumarwan",
-  "description": "Fresh Pastry & Bakery in Mogadishu",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "lang": "en",
-  "scope": "/",
-  "icons": [
-    {
-      "src": "pwa-192x192.svg",
+      "src": "https://i.postimg.cc/NM4pWFqc/192x192.png",
       "sizes": "192x192",
-      "type": "image/svg+xml"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "pwa-512x512.svg",
+      "src": "https://i.postimg.cc/WbtXHs5y/512x512.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "categories": ["food"]
 }
